@@ -1,0 +1,41 @@
+body{
+  margin:0px;
+}
+
+.GPA {
+  fill:white;
+  font-family: "Cormorant Garamond", Serif;
+  font-size: 65px;
+  font-weight: bold;
+  text-anchor: middle;
+}
+
+.scrollText{
+  fill: black;       
+            font-family: "Cormorant Garamond", Serif;
+            font-size: 55px;      
+            text-anchor:middle;
+}
+
+.ContinuescrollText{
+  fill: black;       
+            font-family: "Cormorant Garamond", Serif;
+            font-size: 55px;      
+}
+
+.MorescrollText{
+  fill: white;
+            font-family: "Cormorant Garamond", Serif;
+            font-size: 90px;
+            font-weight: bold;
+}
+
+.sadFace{
+ margin-top: -190px;
+  margin-left: 35px;
+} 
+
+.happyFace{
+   margin-top: -186px;
+  margin-left: 29px;
+}
